@@ -1,6 +1,4 @@
-# Author   : Chinmayi Singla Agrawal
-# Email    : csinglaagraw@umass.edu
-# Spire ID : 35726631
+#Generating the Bill for the Order
 
 order1 = ('manan', 'holyoke', 'FLAT3', 'chicken', 'white', 'pinto', False, 'queso blanco', 'cheese', 'fajita veggies', 'sour cream')
 order2 = ('allison', 'greenfield', 'MAGIC', 'carnitas', 'brown', 'black', True, 'cheese', 'fajita veggies', 'sour cream', 'guacamole', 'tomato salsa')
