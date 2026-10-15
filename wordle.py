@@ -1,8 +1,4 @@
-# Author   : Chinmayi Singla Agrawal
-# Email    : csinglaagraw@umass.edu
-# Spire ID : 35726631
-
-
+#Writing Code for Playing a simple version of Wordle
 
 def get_guess():
     a = input("What word is this: ")
